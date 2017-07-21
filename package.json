@@ -1,0 +1,27 @@
+{
+  "name": "vr-presentation",
+  "version": "1.0.0",
+  "description": "presentations about VR.",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feiss/vr-presentation.git"
+  },
+  "keywords": [
+    "slides",
+    "presentation",
+    "reveal",
+    "reveal.js",
+    "vr",
+    "webvr",
+    "slidedeck"
+  ],
+  "author": "Diego F. Goberna <github@feiss.be>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feiss/vr-presentation.git"
+  },
+  "url": "https://github.com/feiss/vr-presentation.git"
+}
