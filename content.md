@@ -1,10 +1,10 @@
 
-# Realidad Virtual 101
+# Una introducción a la Realidad Virtual
 
 Diego F. Goberna | [@feiss](http://twitter.com/feiss) | [feiss.be](http://feiss.be)
 
 <!-- NOTES -->
-Breve introducción a VR
+Charla = breve introducción a VR
 Situación / posibilidades a hoy en día
 
 ------
@@ -16,8 +16,13 @@ Situación / posibilidades a hoy en día
 - Plataforma HW+SW que permite simular la presencia física del usuario en un entorno "virtual" o distinto al real.
 - Cambiará cómo jugamos, trabajamos y nos comunicamos. 
 
+---
+
+# VR vs AR
+
+<img src="media/img/vrar.svg" height="70%">
+
 ------
-<!-- .slide -->
 
 # Aplicaciones prácticas
 
@@ -120,15 +125,80 @@ Situación / posibilidades a hoy en día
 
 # Dispositivos
 
----
-
-| 3DOF | 3DOF +  MANDOS | 6DOF <br> Outside-In (Room Scale) | 6DOF <br> Inside-Out |
-|------|------|------|------|
-| - Móviles <br> - Cardboard | - Daydream <br> - Gear VR | - HTC Vive <br> - Oculus <br> - PSX VR <br> - OSVR | - iPhone 7* <br> - Hololens* |
 
 ---
 
-[tabla comparativa]
+# Cardboard y similares
+
+<div class="sideimg">
+  <img src="media/img/cardboard.png" class="sideimg">
+  <div>
+    <ul>
+      <li>Casco de cartón* donde metes el teléfono</li>
+      <li>3DOF</li>
+      <li>Gaze y click</li>
+    </ul>
+  </div>
+</div>
+---
+
+# Gear VR / Daydream
+
+
+<div class="sideimg">
+  <img src="media/img/gearvr.png">
+  <img src="media/img/daydream.png">
+  <div>
+    <ul>
+      <li>Cascos de plástico donde metes el teléfono</li>
+      <li>3DOF</li>
+      <li>Mandos 3DOF</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+# Playstation VR / OSVR / Oculus / HTC Vive
+
+
+<div class="sideimg">
+  <img src="media/img/playstation.png">
+  <img src="media/img/oculus.png">
+  <img src="media/img/vive.png">
+  <div>
+    <ul>
+      <li>Cascos con pantallas incorporadas</li>
+      <li>6DOF (Room Scale)</li>
+      <li>Mandos 6DOF</li>
+      <li>Tracking outside-in</li>
+    </ul>
+  </div>
+</div>
+
+
+---
+
+# iPhone - iPad / Hololens
+
+
+
+
+<div class="sideimg">
+  <img src="media/img/iphone.png">
+  <img src="media/img/hololens.png">
+  <div>
+    <ul>
+      <li>AR</li>
+      <li>6DOF ( > Room Scale)</li>
+      <li>Tracking inside-out</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+<img src="media/img/comparativa.png">
 
 ------
 

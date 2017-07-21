@@ -15,6 +15,7 @@ body {
   background: -moz-radial-gradient(#FAFAFA, #EAEAEA, #E5E5E5);
   background: -webkit-radial-gradient(#FAFAFA, #EAEAEA, #E5E5E5);
   background-color: #E5E5E5;
+  background-image: url(../media/img/bg1.jpg);
 }
 
 html:-webkit-full-screen-ancestor,
@@ -27,12 +28,15 @@ html:-moz-full-screen-ancestor {
   font-size: 38px;
   font-weight: normal;
   color: #333;
+  text-shadow: 2px 2px 5px #fff;
 }
 
 ::selection {
   color: #fff;
   background: #98bdef;
   text-shadow: none; }
+
+
 
 .reveal .slides > section,
 .reveal .slides > section > section {
@@ -214,7 +218,7 @@ html:-moz-full-screen-ancestor {
  * LINKS
  *********************************************/
 .reveal a {
-  color: #24CAFF;
+  color: #a33;
   text-decoration: none;
   -webkit-transition: color .15s ease;
   -moz-transition: color .15s ease;
@@ -474,3 +478,26 @@ div.slide__boilerplate + video {
 .reveal li {
   line-height: 1.5em;
 }
+
+
+
+.sideimg {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-content: stretch;
+  align-items: flex-start;
+  }
+
+.sideimg img, .sideimg div {
+  flex: 1 1  auto;
+  }
+
+.sideimg img {
+  margin: 0;
+  margin-right: 5px !important;
+  max-height: 300px;
+  max-width: 300px;
+  display: block !important;
+  }
