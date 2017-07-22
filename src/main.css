@@ -15,6 +15,7 @@ body {
   background: -moz-radial-gradient(#FAFAFA, #EAEAEA, #E5E5E5);
   background: -webkit-radial-gradient(#FAFAFA, #EAEAEA, #E5E5E5);
   background-color: #E5E5E5;
+  background-size: cover;
   background-image: url(../media/img/bg1.jpg);
 }
 
@@ -62,9 +63,12 @@ html:-moz-full-screen-ancestor {
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 1.9em; }
+  font-size: 1.9em; 
+  margin-bottom: 40px;
+}
 
 .reveal h2 {
+  margin-bottom: 40px;
   font-size: 1.6em; }
 
 .reveal h3 {
@@ -218,7 +222,7 @@ html:-moz-full-screen-ancestor {
  * LINKS
  *********************************************/
 .reveal a {
-  color: #a33;
+  color: #822;
   text-decoration: none;
   -webkit-transition: color .15s ease;
   -moz-transition: color .15s ease;
@@ -226,7 +230,7 @@ html:-moz-full-screen-ancestor {
 }
 
 .reveal a:hover {
-  color: #24CAFF !important;
+  color: #f55 !important;
 }
 
 .reveal .roll span:after {
@@ -259,31 +263,31 @@ html:-moz-full-screen-ancestor {
  *********************************************/
 .reveal .controls .navigate-left,
 .reveal .controls .navigate-left.enabled {
-  border-right-color: #24CAFF; }
+  border-right-color: #555; }
 
 .reveal .controls .navigate-right,
 .reveal .controls .navigate-right.enabled {
-  border-left-color: #24CAFF; }
+  border-left-color: #555; }
 
 .reveal .controls .navigate-up,
 .reveal .controls .navigate-up.enabled {
-  border-bottom-color: #24CAFF; }
+  border-bottom-color: #555; }
 
 .reveal .controls .navigate-down,
 .reveal .controls .navigate-down.enabled {
-  border-top-color: #24CAFF; }
+  border-top-color: #555; }
 
 .reveal .controls .navigate-left.enabled:hover {
-  border-right-color: #6ca0e8; }
+  border-right-color: #fff; }
 
 .reveal .controls .navigate-right.enabled:hover {
-  border-left-color: #6ca0e8; }
+  border-left-color: #fff; }
 
 .reveal .controls .navigate-up.enabled:hover {
-  border-bottom-color: #6ca0e8; }
+  border-bottom-color: #fff; }
 
 .reveal .controls .navigate-down.enabled:hover {
-  border-top-color: #6ca0e8; }
+  border-top-color: #fff; }
 
 /*********************************************
  * PROGRESS BAR
@@ -494,6 +498,12 @@ div.slide__boilerplate + video {
   flex: 1 1  auto;
   }
 
+.sideimg .images{
+  display: flex;
+  flex-direction: column;
+  max-height: 300px;
+}
+
 .sideimg img {
   margin: 0;
   margin-right: 5px !important;
@@ -501,3 +511,9 @@ div.slide__boilerplate + video {
   max-width: 300px;
   display: block !important;
   }
+
+
+.sideimg .small img{
+  max-width: 200px;
+  max-height: 200px;
+}

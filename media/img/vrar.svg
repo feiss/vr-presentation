@@ -1,28 +1,182 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="162.02mm" height="157.48mm" version="1.1" viewBox="0 0 162.01785 157.48215" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g transform="translate(-29.738 -38.72)">
-  <ellipse cx="63.878" cy="123.13" rx="29.86" ry="27.214" fill-opacity=".060606" stroke="#000"/>
-  <g fill="#000000" font-family="sans-serif" letter-spacing="0px" word-spacing="0px">
-   <text x="53.672623" y="118.59524" font-size="12.347px" font-weight="bold" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="53.672623" y="118.59524" font-family="sans-serif" font-size="12.347px" font-weight="bold" stroke-width=".26458">VR</tspan></text>
-   <text x="100.54166" y="63.410709" font-size="14.111px" font-weight="bold" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="100.54166" y="63.410709" font-family="sans-serif" font-size="14.111px" font-weight="bold" stroke-width=".26458">AR</tspan></text>
-   <g font-size="6.7424px" stroke-width=".16856">
-    <text x="87.000313" y="166.32584" style="line-height:1.25" xml:space="preserve"><tspan x="87.000313" y="166.32584" stroke-width=".16856">Bases de datos</tspan></text>
-    <text x="114.07444" y="90.211739" style="line-height:1.25" xml:space="preserve"><tspan x="114.07444" y="90.211739" stroke-width=".16856">GPS</tspan></text>
-    <text x="136.10144" y="109.06133" style="line-height:1.25" xml:space="preserve"><tspan x="136.10144" y="109.06133" stroke-width=".16856">Altura</tspan></text>
-    <text x="104.66156" y="135.26918" style="line-height:1.25" xml:space="preserve"><tspan x="104.66156" y="135.26918" stroke-width=".16856">Visión por computador</tspan></text>
-   </g>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="162.02mm"
+   height="157.48mm"
+   version="1.1"
+   viewBox="0 0 162.01785 157.48215"
+   id="svg4525"
+   sodipodi:docname="vrar.svg"
+   inkscape:version="0.92.1 r15371"
+   inkscape:export-filename="X:\mozvr\git\vr-presentation\media\img\vrar.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs4529" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview4527"
+     showgrid="false"
+     inkscape:zoom="0.9307796"
+     inkscape:cx="306.17954"
+     inkscape:cy="254.62526"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4523" />
+  <metadata
+     id="metadata4485">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-29.738 -38.72)"
+     id="g4523">
+    <ellipse
+       cx="110.75"
+       cy="117.46"
+       rx="80.543"
+       ry="78.276"
+       fill="none"
+       stroke="#000"
+       stroke-width=".93105"
+       id="ellipse4517"
+       style="fill:#ffffff;fill-opacity:1" />
+    <ellipse
+       cx="63.877998"
+       cy="123.13"
+       rx="28.45052"
+       ry="27.225838"
+       id="ellipse4487"
+       style="fill-opacity:0.060606;stroke:#000000;stroke-width:0.97632545" />
+    <g
+       letter-spacing="0px"
+       word-spacing="0px"
+       id="g4515"
+       transform="translate(0.56852759,-3.4111656)"
+       style="font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000">
+      <text
+         x="53.672623"
+         y="118.59524"
+         font-size="12.347px"
+         font-weight="bold"
+         style="font-weight:bold;font-size:12.34700012px;line-height:1.25;stroke-width:0.26458001"
+         xml:space="preserve"
+         id="text4491"><tspan
+           x="53.672623"
+           y="118.59524"
+           font-size="12.347px"
+           font-weight="bold"
+           id="tspan4489"
+           style="font-weight:bold;font-size:12.34700012px;font-family:sans-serif;stroke-width:0.26458001">VR</tspan></text>
+      <text
+         x="100.54166"
+         y="63.410709"
+         font-size="14.111px"
+         font-weight="bold"
+         style="font-weight:bold;font-size:14.11100006px;line-height:1.25;stroke-width:0.26458001"
+         xml:space="preserve"
+         id="text4495"><tspan
+           x="100.54166"
+           y="63.410709"
+           font-size="14.111px"
+           font-weight="bold"
+           id="tspan4493"
+           style="font-weight:bold;font-size:14.11100006px;font-family:sans-serif;stroke-width:0.26458001">AR</tspan></text>
+      <g
+         font-size="6.7424px"
+         id="g4513"
+         style="font-size:6.74240017px;stroke-width:0.16856"
+         transform="translate(0,6.8223311)">
+        <text
+           x="87.000313"
+           y="166.32584"
+           style="line-height:1.25"
+           xml:space="preserve"
+           id="text4499"><tspan
+             x="87.000313"
+             y="166.32584"
+             id="tspan4497"
+             style="stroke-width:0.16856">Bases de datos</tspan></text>
+        <text
+           x="104.978"
+           y="82.536613"
+           style="line-height:1.25"
+           xml:space="preserve"
+           id="text4503"><tspan
+             x="104.978"
+             y="82.536613"
+             id="tspan4501"
+             style="stroke-width:0.16856">GPS</tspan></text>
+        <text
+           x="130.70042"
+           y="101.38621"
+           style="line-height:1.25"
+           xml:space="preserve"
+           id="text4507"><tspan
+             x="130.70042"
+             y="101.38621"
+             id="tspan4505"
+             style="stroke-width:0.16856">Altitud</tspan></text>
+        <text
+           x="105.79861"
+           y="126.74126"
+           style="line-height:1.25"
+           xml:space="preserve"
+           id="text4511"><tspan
+             x="105.79861"
+             y="126.74126"
+             id="tspan4509"
+             style="stroke-width:0.16856">Visión por computador</tspan></text>
+      </g>
+    </g>
+    <text
+       x="141.56262"
+       y="150.09145"
+       font-size="6.7424px"
+       letter-spacing="0px"
+       word-spacing="0px"
+       style="font-size:6.74240017px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.16856"
+       xml:space="preserve"
+       id="text4521"><tspan
+         x="141.56262"
+         y="150.09145"
+         id="tspan4519"
+         style="stroke-width:0.16856">IA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58347797px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458693"
+       x="111.03526"
+       y="187.1057"
+       id="text4533"><tspan
+         sodipodi:role="line"
+         id="tspan4531"
+         x="111.03526"
+         y="187.1057"
+         style="stroke-width:0.26458693">...</tspan></text>
   </g>
-  <ellipse cx="110.75" cy="117.46" rx="80.543" ry="78.276" fill="none" stroke="#000" stroke-width=".93105"/>
-  <text x="158.33418" y="154.92393" fill="#000000" font-family="sans-serif" font-size="6.7424px" letter-spacing="0px" stroke-width=".16856" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="158.33418" y="154.92393" stroke-width=".16856">IA</tspan></text>
- </g>
 </svg>
