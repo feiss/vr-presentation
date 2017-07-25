@@ -193,65 +193,39 @@ Desventajas:
 
 # Aplicaciones prácticas
 
----
 
-## Entretenimiento 
-
+<!-- NOTES -->
+Entretenimiento y Arte
 - Juegos
 - Películas
 - Conciertos y eventos
-- ...
+- Exposiciones
 
----
-
-## Medicina y psicología 
-
+Medicina y psicología 
 - Tratamiento de fobias
 - Estudio del comportamiento
 - Cambios de perspectiva
 - Estudios y control de la percepción
 - Tratamiento del dolor
-- ...
 
+Productividad 
+- Office, outlook, etc.
 
----
+Publicidad
 
-## Productividad 
-## Publicidad
-
----
-
-## Divulgación y enseñanza
-
+Divulgación y enseñanza
 - Centros educativos
 - Museos
 - Lugares de interés
-- ...
 
----
-
-## Arte
-
-- Creaciones artísticas
-- Exposiciones
-- ...
-
----
-
-## Simuladores de tareas
-
+Simuladores de tareas
 - Oficios
 - Destrezas
-- ...
 
----
-
-## Comunicación
-
+Comunicación
 - Chats y videoconferencias
 - Redes sociales (Metaverso)
 - Trabajo a distancia
-- ...
 
 ------
 
@@ -266,9 +240,12 @@ Desventajas:
 # Enlaces
 
 - Mozilla VR: [mozvr.com](http://mozvr.com)
+- Google VR: [vr.google.com](http://vr.google.com)
 - WebVR: [webvr.info](http://webvr.info) y [webvr.rocks](http://webvr.rocks)
 - Noticias: [realovirtual.com](http://realovirtual.com), [uploadvr.com](http://uploadvr.com), [roadtovr.com](http://roadtovr.com)
 
 ------
 
 ## Gracias! :)
+
+### ¿preguntas?
