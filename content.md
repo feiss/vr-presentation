@@ -84,7 +84,7 @@ Situación / posibilidades a hoy en día
   </div>
   <div>
     <ul>
-      <li>Casco donde metes un teléfono Samsung o Pixel</li>
+      <li>Casco donde metes un teléfono Samsung, Pixel o similares</li>
       <li>3DOF</li>
       <li>Mandos 3DOF</li>
     </ul>
@@ -93,7 +93,7 @@ Situación / posibilidades a hoy en día
 
 ---
 
-## Playstation VR / OSVR / Oculus / HTC Vive
+## Playstation VR / OSVR <br> Oculus Rift / HTC Vive
 
 
 <div class="sideimg">
@@ -135,7 +135,7 @@ Situación / posibilidades a hoy en día
 
 ## Comparativa
 
-<a href="media/img/comparativa.png"><img data-src="media/img/comparativa.png"></a>
+<a href="media/img/comparacion.png"><img data-src="media/img/comparacion.png"></a>
 
 ------
 
@@ -189,7 +189,7 @@ Desventajas:
 ## Soporte Navegadores
 
 - **Windows**
-    - Oculus: Firefox Nightly, Chromium
+    - Oculus Rift: Firefox Nightly, Chromium
     - HTC Vive: Firefox Nightly, Servo y Chromium
     - Windows Mixed Reality: Edge
 - **Mac**
