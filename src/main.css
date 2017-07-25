@@ -29,7 +29,7 @@ html:-moz-full-screen-ancestor {
   font-size: 38px;
   font-weight: normal;
   color: #333;
-  text-shadow: 2px 2px 5px #fff;
+  text-shadow: 1px 1px 3px #fff;
 }
 
 ::selection {

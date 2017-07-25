@@ -18,9 +18,11 @@ Situación / posibilidades a hoy en día
 
 ---
 
-# VR vs AR
+Arquitectura HW + SW que permite simular la presencia física del usuario en un entorno "virtual" o distinto al real.
 
-<img src="media/img/vrar.png">
+---
+
+<img data-src="media/img/virtuality.png">
 
 ------
 
@@ -32,7 +34,7 @@ Situación / posibilidades a hoy en día
 
 <img data-src="media/img/vrscreens.jpg">
 
-- 2 pantallas/imágenes alta resolución
+- 1 imágen por ojo (alta resolución)
 - Mínimo 90 fps
 - Persistencia píxel < 3ms
 - Baja latencia input-output
@@ -47,7 +49,7 @@ Situación / posibilidades a hoy en día
 
 ---
 
-<a href="media/img/vrflow.png"><img src="media/img/vrflow.png"></a>
+<a href="media/img/vrflow.png"><img data-src="media/img/vrflow.png"></a>
 
 ------
 
@@ -60,11 +62,11 @@ Situación / posibilidades a hoy en día
 
 <div class="sideimg">
   <div class="images">
-    <img src="media/img/cardboard.png" class="sideimg">
+    <img data-src="media/img/cardboard.png" class="sideimg">
   </div>
   <div>
     <ul>
-      <li>Casco de cartón* donde metes el teléfono</li>
+      <li>Casco donde metes el teléfono</li>
       <li>3DOF</li>
       <li>Fijar la mirada</li>
     </ul>
@@ -77,12 +79,12 @@ Situación / posibilidades a hoy en día
 
 <div class="sideimg">
   <div class="images">
-    <img src="media/img/gearvr.png">
-    <img src="media/img/daydream.png">
+    <img data-src="media/img/gearvr.png">
+    <img data-src="media/img/daydream.png">
   </div>
   <div>
     <ul>
-      <li>Cascos de plástico donde metes el teléfono</li>
+      <li>Casco donde metes un teléfono Samsung o Pixel</li>
       <li>3DOF</li>
       <li>Mandos 3DOF</li>
     </ul>
@@ -96,9 +98,9 @@ Situación / posibilidades a hoy en día
 
 <div class="sideimg">
   <div class="images small">
-    <img src="media/img/playstation.png">
-    <img src="media/img/oculus.png">
-    <img src="media/img/vive.png">
+    <img data-src="media/img/playstation.png">
+    <img data-src="media/img/oculus.png">
+    <img data-src="media/img/vive.png">
   </div>
   <div>
     <ul>
@@ -120,8 +122,8 @@ Situación / posibilidades a hoy en día
 
 <div class="sideimg">
   <div class="">
-    <img src="media/img/iphone.jpg">
-    <img src="media/img/hololens.jpg">
+    <img data-src="media/img/iphone.jpg">
+    <img data-src="media/img/hololens.jpg">
   </div>
   <div>
     <ul>
@@ -134,7 +136,7 @@ Situación / posibilidades a hoy en día
 
 ---
 
-<a href="media/img/comparativa.png"><img src="media/img/comparativa.png"></a>
+<a href="media/img/comparativa.png"><img data-src="media/img/comparativa.png"></a>
 
 ------
 
@@ -144,7 +146,7 @@ Situación / posibilidades a hoy en día
 
 ## Nativo (OpenGL / DirectX)
 
-- Unity / Unreal / CryEngine / libGDX  / otros / a pinrel
+<img data-src="media/img/engines.png">
 
 <!-- NOTES -->
 Ventajas: 
@@ -160,9 +162,7 @@ Desventajas:
 
 ## Web (WebGL + WebVR)
 
-- Three.js &rarr; A-Frame, ReactVR 
-- Babylon.js
-- Blend4Web
+<img data-src="media/img/frameworks.png">
 
 <!-- NOTES -->
 
@@ -193,6 +193,14 @@ Desventajas:
 
 # Aplicaciones prácticas
 
+- **Entretenimiento y Arte** (juegos, películas, eventos...)
+- **Medicina y psicología** (fobias, percepción, dolor...)
+- **Productividad** (office, cad..)
+- **Publicidad**
+- **Divulgación y enseñanza** (museos, lugares...)
+- **Simuladores de tareas** (oficios, ejército, habilidades...)
+- **Comunicación**
+- **???**
 
 <!-- NOTES -->
 Entretenimiento y Arte
@@ -227,11 +235,13 @@ Comunicación
 - Redes sociales (Metaverso)
 - Trabajo a distancia
 
+---
+<img data-src="media/img/asilo.jpg">
 ------
 
 # Consideraciones
 
-- Malestar físico
+- Salud
 - Privacidad
 - Problemas sociales y éticos
 
@@ -246,6 +256,6 @@ Comunicación
 
 ------
 
-## Gracias! :)
+## Gracias!
 
 ### ¿preguntas?
