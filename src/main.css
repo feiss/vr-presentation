@@ -517,3 +517,8 @@ div.slide__boilerplate + video {
   max-width: 200px;
   max-height: 200px;
 }
+
+span.small {
+  font-size: 0.8em;
+  color: #555;
+}
