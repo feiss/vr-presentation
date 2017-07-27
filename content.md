@@ -151,6 +151,13 @@ Situación / posibilidades a hoy en día
 
 # Desarrollo VR
 
+Igual que una aplicación/juego 3D, salvo:
+- Alto rendimiento (90 FPS, alta resolución x 2)
+- Cámara muy limitada y siempre en primera persona
+- Interacciones con muchas posibilidades
+- Dimensiones y distancias reales
+- Altas expectativas respecto a interactividad y físicas
+
 ---
 
 ## Nativo (OpenGL / DirectX)
